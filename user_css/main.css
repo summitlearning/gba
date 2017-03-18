@@ -6,6 +6,7 @@ html, body {
     cursor: none;
     background-color:white;
     font-family:Arial;
+    
 }
 canvas {
     position: absolute;
